@@ -1,7 +1,0 @@
-程序写的比较乱，重新整理一下吧
-
-1.一个网络爬虫，用于从阿里云的API市场上抓取所有的API信息，具体实现自己看代码吧，爬虫程序是save_API_class.py，直接运行就行生成的是excel文件，另一个save_API_class_txt.py，生成txt文件，生成文件在data目录下
-
-2.jeiba分词，一个分词工具，具体使用教程就不说了，网上可以找，直接运行functionalSemamtics.py，数据读进来就ok了，生成的文件同样在data目录下
-
-3.后面要用到Standford Parser工具进行句子解析和词性分析了，由于这个工具是用Java写的，后面就用Java接着往下做了（笑）
